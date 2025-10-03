@@ -11,7 +11,8 @@
   "dependencies": {
     "@google/genai": "^1.16.0",
     "@langchain/community": "^0.3.53",
-    "@langchain/google-genai": "^0.2.16",
+    "@langchain/core": "^0.3.78",
+    "@langchain/google-genai": "^0.2.18",
     "@langchain/pinecone": "^0.2.0",
     "@langchain/textsplitters": "^0.1.0",
     "@pinecone-database/pinecone": "^6.1.2",
@@ -28,7 +29,7 @@
     "clsx": "^2.1.1",
     "dotenv": "^17.2.1",
     "framer-motion": "^12.23.12",
-    "langchain": "^0.3.31",
+    "langchain": "^0.3.35",
     "lucide-react": "^0.541.0",
     "motion": "^12.23.12",
     "next": "15.5.0",
